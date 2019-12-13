@@ -1,0 +1,19 @@
+.book {
+    display: flex
+}
+
+.book_author {
+    color:white;
+}
+
+.book_publisher {
+    color: white
+}
+
+.book_description {
+    color: white;
+}
+
+.book_details {
+    color: white;
+}
